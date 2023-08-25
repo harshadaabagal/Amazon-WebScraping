@@ -1,6 +1,8 @@
 # Amazon-WebScraping
 
 Imported all the required libraries
+
+
 Defined functions to extract name , price, title , availability , ratings
 
 Defined a list and a dictionary
